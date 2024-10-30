@@ -1,0 +1,10 @@
+name: Yaml
+description: >-
+  Yaml parser library for any programming language.
+languages:
+  - name: golang
+    repo: necto-go/encoding/yaml
+    install_command: go get go.necto.dev
+  - name: ruby
+    repo: necto-ruby/encoding/yaml
+    install_command: gem install necto
